@@ -1,0 +1,3 @@
+n_features=12
+n_classes=10
+num_test_samples=50
